@@ -15,6 +15,7 @@ public class FirstCase {
 		driver = new ChromeDriver();
 		driver.get("https://www.amazon.in/");
 		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.in/");
 	}
 
 	public void serachProduct() throws InterruptedException {
